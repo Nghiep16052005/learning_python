@@ -1,0 +1,1 @@
+x,y,z = map(int, input('nhap 3 so').split)
