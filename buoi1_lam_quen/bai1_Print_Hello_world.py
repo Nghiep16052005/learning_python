@@ -8,7 +8,7 @@ Input Format
 Constraints
 
 1<=x<=1000;
-
+k
 Output Format
 
 In ra 3 dòng theo yêu cầu
